@@ -1,0 +1,10 @@
+secret_keys.json
+secret_keys.json
+CSVs/company_deal_cross_report.csv
+CSVs/company_file.csv
+CSVs/contact_file.csv
+CSVs/contacts_cross_report.csv
+CSVs/deal_file.csv
+Hubspot_Json_objects/companies.json
+Hubspot_Json_objects/contacts.json
+Hubspot_Json_objects/deals.json
